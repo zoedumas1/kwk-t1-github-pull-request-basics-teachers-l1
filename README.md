@@ -13,6 +13,6 @@ Let's go over a familiar example. Let's say you fork a repo from
 
 So you clone down that fork to your computer, make some changes and now you want to make a pull request back up to `https://github.com/learn-co-students/awesome-lab`.
 
-Basically you are saying, "I have made these changes to the original repo, will you accept them?" You are requesting that learn-co-students take your changes and combine them into the original repo that you cloned. It's a way for you to work on someone else's code without breaking their codebase.
+Basically you are saying, "I have made these changes to the original repo, will you accept them?" You are requesting that learn-co-students take your changes and combine them into the original repo that you've forked. It's a way for you to work on someone else's code without breaking their codebase.
 
 Pull requests are what power the open source community. Through this process, anyone can fork a repo, make changes and submit a pull request. Now instead just the owner working on their codebase, everyone can work on it.
