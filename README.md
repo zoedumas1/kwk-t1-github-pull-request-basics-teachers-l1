@@ -24,10 +24,16 @@ Let's say you fork repository `https://github.com/learn-co-students/awesome-lab`
 Now you make some changes and you want to send a pull request to their fork `https://github.com/their-user-name/awesome-lab`. How do you do this?
 
 ###Step 1
-![](https://readme-pics.s3.amazonaws.com/gitpulls/1.jpg)
+Navigate to your forks page, `https://github.com/your-user-name/awesome-lab` and click on pull requests in the top right corner.
+
+![](http://readme-pics.s3.amazonaws.com/gitpulls/1.jpg)
 
 ###Step 2
-![](https://readme-pics.s3.amazonaws.com/gitpulls/2.jpg)
+Click on the green New Pull Request button.
+![](http://readme-pics.s3.amazonaws.com/gitpulls/2.jpg)
 
 ###Step 3
-![](https://readme-pics.s3.amazonaws.com/gitpulls/3.jpg)
+Her you can choose the base fork, which will be
+`their-user-name/awesome-lab`. Then choose the head fork, which will be `your-user-name/awesome-lab`
+Now click Create pull request.
+![](http://readme-pics.s3.amazonaws.com/gitpulls/4.jpg)
