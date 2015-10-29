@@ -24,7 +24,10 @@ Let's say you fork repository `https://github.com/learn-co-students/awesome-lab`
 Now you make some changes and you want to send a pull request to their fork `https://github.com/their-user-name/awesome-lab`. How do you do this?
 
 ###Step 1
+![](https://readme-pics.s3.amazonaws.com/gitpulls/1.jpg)
 
 ###Step 2
+![](https://readme-pics.s3.amazonaws.com/gitpulls/2.jpg)
 
 ###Step 3
+![](https://readme-pics.s3.amazonaws.com/gitpulls/3.jpg)
