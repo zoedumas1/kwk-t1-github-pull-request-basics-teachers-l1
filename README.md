@@ -1,8 +1,9 @@
 #Github Pull Request Basics
 
 ##Objectives:
-1. Create a pull request from one fork to another
-2. Understand how to add commits to an existing pull request
+1. Understand what a pull request is
+1. Identify how to create a pull request from one fork to another
+2. Identify how to add commits to an existing pull request
 
 ##Overview:
 The concept of a pull request is unique to Github, meaning it does not exist outside of Github. Conceptually, it is a request for the owner of a receiving party (learn-co-students in the case of labs) to pull from you, because it would be rude to push your code onto someone else.
@@ -37,3 +38,6 @@ Here you can choose the base fork, which will be
 `their-user-name/awesome-lab`. Then choose the head fork, which will be `your-user-name/awesome-lab`
 Now click Create pull request.
 ![](http://readme-pics.s3.amazonaws.com/gitpulls/4.jpg)
+
+###Add Commits To An Existing Pull Request
+Let's say you make a pull request from `https://github.com/your-user-name/awesome-lab to `https://github.com/learn-co-students/awesome-lab`. Then you notice you made a typo in your code. All you have to do is fix the typo, commit it and push up the changes to your branch. As long as the pull request already exists, the commits will be added automatically.
