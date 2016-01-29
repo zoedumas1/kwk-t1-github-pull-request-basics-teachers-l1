@@ -42,4 +42,4 @@ Now click Create pull request.
 ###Add Commits To An Existing Pull Request
 Let's say you make a pull request from `https://github.com/your-user-name/awesome-lab` to `https://github.com/learn-co-students/awesome-lab`. Then you notice you made a typo in your code. All you have to do is fix the typo, commit it and push up the changes to your branch. As long as the pull request already exists, the commits will be added automatically.
 
-<a href='https://learn.co/lessons/github-pull-request-basics' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/github-pull-request-basics' title='Github Pull Request Basics'>Github Pull Request Basics</a> on Learn.co and start learning to code for free.</p>
