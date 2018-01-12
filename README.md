@@ -74,7 +74,8 @@ Here you can choose the base fork, which will be `their-user-name/awesome-lab`.
 Then choose the head fork, which will be `your-user-name/awesome-lab`
 
 Now click Create pull request.
-![](http://readme-pics.s3.amazonaws.com/gitpulls/4.jpg)
+
+![](https://curriculum-content.s3.amazonaws.com/gitpulls/4.jpg)
 
 ### Add Commits To An Existing Pull Request
 
