@@ -64,23 +64,18 @@ jQuery).
 
 ### Step 1
 
-Navigate to your forks page, `https://github.com/your-user-name/awesome-lab`
-and click on pull requests in the top right corner.
+Click on the New Pull Request button.
 
-![](http://readme-pics.s3.amazonaws.com/gitpulls/1.jpg)
+![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
 
 ### Step 2
-
-Click on the green New Pull Request button.
-![](http://readme-pics.s3.amazonaws.com/gitpulls/2.jpg)
-
-### Step 3
 
 Here you can choose the base fork, which will be `their-user-name/awesome-lab`.
 Then choose the head fork, which will be `your-user-name/awesome-lab`
 
 Now click Create pull request.
-![](http://readme-pics.s3.amazonaws.com/gitpulls/4.jpg)
+
+![](https://curriculum-content.s3.amazonaws.com/gitpulls/4.jpg)
 
 ### Add Commits To An Existing Pull Request
 
