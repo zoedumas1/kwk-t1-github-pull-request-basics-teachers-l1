@@ -9,23 +9,46 @@
 ## Overview:
 
 The concept of a pull request is unique to Github. It is a request for the
-owner of a receiving repository (`learn-co-students` in the case of labs) to
-"pull" an update from _your_ "fork" of that repository.
+owner of a receiving repository to take your changes, that you made in a
+parallel universe ("your fork") and "pull" them into the owner's repository.
+Pull requests are power the open source community. Through this process,
+anyone can fork a repo, make changes and submit a pull request. Instead of
+the owner working on their codebase alone, _anyone_ can contribute: tests,
+documentation fixes, new features, awesome layout and graphics, etc.
 
-Pull requests are what power the open source community. Through this process,
-anyone can fork a repo, make changes and submit a pull request. Now instead of
-just the owner working on their codebase, anyone can work on it.  [Here][pr] is
-a great example of a pull request on the `Ruby` codebase.
+There are some vocabulary words that we need to keep in mind in order to make
+sure that we're all on the same page.
+
+* **revision control system**: a software program that keeps tracks of updates /
+  deletions / additions / changes to a collection of content (usually a
+  directory)
+* "**repository**" (or "repo"): a directory of content (including subdirectories)
+  which is managed by `git` (or, "under revision control")
+* "**organization**" (or "org"): a parent entity which "owns" a repo. This might
+  be an organization (IBM, Microsoft, the Python foundation) or it might be an
+  owning human (`sgharms`). In the case of Learn.co labs, "orgs" are
+  `learn-co-curriculum` and `learn-co-students`
+* "**fork**:" to make a copy of the **repository** owned by one **org** and add it
+  within _another_ **org**. `sgharms` might "fork" `ruby/ruby` (that is `ruby`
+  org's `ruby` repo) to his own org.
+* "**clone**:" to copy a remote repo (on Github, typically, but this could be
+  from a remote server, from a USB drive, even from another directory on your
+  local system) to a local directory with the same name that's under git
+  revision control
+* "**pull request**:" to request that the owner of another org take changes you
+  made to your copy of the repo and integrate it into theirs _as if_ you had
+  done the work _on theirs directly_. [Here][pr] is a great example of a pull
+  request on the `Ruby` codebase.
 
 Let's go over a conceptual example. It's OK if this feels a bit confusing at
-first, you'll work through this countless times and eventually your brain
-and fingers will both grasp what's going on.
+first, you'll work through this countless times and eventually your brain and
+fingers will both grasp what's going on.
 
 ### Pull Request to a Source Repository
 
 1. Suppose you "fork" a repo from `https://github.com/learn-co-students/awesome-lab`.
-2. You now have a _copy_ of that repo on your Github account i.e.
-   ``https://github.com/your-user-name/awesome-lab`. Technologiests would say
+2. You now have a _copy_ of that repo on your Github account ("organization") i.e.
+   ``https://github.com/your-user-name/awesome-lab`. Technologists would say
    you "forked" the `awesome-lab` repo from the `learn-co-students` organization
    to the `your-user-name` organization.
 3. But you still don't have a *local* copy of this repository on your computer.
