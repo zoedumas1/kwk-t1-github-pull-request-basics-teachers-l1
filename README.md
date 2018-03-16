@@ -11,7 +11,7 @@
 The concept of a pull request is unique to Github. It is a request for the
 owner of a receiving repository to take your changes, that you made in a
 parallel universe ("your fork") and "pull" them into the owner's repository.
-Pull requests are power the open source community. Through this process,
+Pull requests power the open source community. Through this process,
 anyone can fork a repo, make changes and submit a pull request. Instead of
 the owner working on their codebase alone, _anyone_ can contribute: tests,
 documentation fixes, new features, awesome layout and graphics, etc.
