@@ -36,4 +36,4 @@ out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
 
-THIS IS THE curriculumTHAT WE AS CODERS ARE USING HOLLA
+THIS IS THE curriculumTHAT WE AS CODERS ARE USING HOLLA....
